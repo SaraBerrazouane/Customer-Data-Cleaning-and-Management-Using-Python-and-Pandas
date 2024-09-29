@@ -1,0 +1,2 @@
+# Customer-Data-Cleaning-and-Management-Using-Python-and-Pandas
+In this project, I used Python and Pandas to clean and standardize customer data from an Excel file. I removed customers without contact information and those who opted out of contact. I also cleaned and formatted fields to resolve inconsistencies, resulting in a well-organized dataset ready for analysis, showcasing my data cleaning skills.
